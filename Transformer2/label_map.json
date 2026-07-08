@@ -1,0 +1,16 @@
+{
+  "Abuse": 0,
+  "Arrest": 1,
+  "Arson": 2,
+  "Assault": 3,
+  "Burglary": 4,
+  "Explosion": 5,
+  "Fighting": 6,
+  "NormalVideos": 7,
+  "RoadAccidents": 8,
+  "Robbery": 9,
+  "Shooting": 10,
+  "Shoplifting": 11,
+  "Stealing": 12,
+  "Vandalism": 13
+}
